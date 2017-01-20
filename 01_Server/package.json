@@ -16,9 +16,11 @@
   "author": "Datafrog Inc",
   "license": "ISC",
   "dependencies": {
-    "hapi": "7.5.2"
+    "hapi": "15.2.0"
   },
   "devDependencies": {
-    "typescript": "2.0.3"
+    "typescript": "2.0.3",
+    "typings": "2.1.0",
+    "@types/hapi": "13.0.38"
   }
 }
